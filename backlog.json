@@ -1,0 +1,76 @@
+{
+    "games": [
+        {
+            "name": "Hollow Knight: Silksong",
+            "genre": "Metroidvania",
+            "playtime": 10,
+            "timetobeat": 28,
+            "platform": "Switch",
+            "owned": true,
+            "completed": false
+        },
+        {
+            "name": "Elden Ring",
+            "genre": "Action RPG",
+            "playtime": 45,
+            "timetobeat": 100,
+            "platform": "PC",
+            "owned": true,
+            "completed": false
+        },
+        {
+            "name": "Stardew Valley",
+            "genre": "Simulation",
+            "playtime": 150,
+            "timetobeat": 50,
+            "platform": "Switch",
+            "owned": true,
+            "completed": true
+        },
+        {
+            "name": "The Witcher 3: Wild Hunt",
+            "genre": "RPG",
+            "playtime": 5,
+            "timetobeat": 105,
+            "platform": "PS5",
+            "owned": false,
+            "completed": false
+        },
+        {
+            "name": "Celeste",
+            "genre": "Platformer",
+            "playtime": 12,
+            "timetobeat": 10,
+            "platform": "PC",
+            "owned": true,
+            "completed": true
+        },
+        {
+            "name": "Baldur's Gate 3",
+            "genre": "CRPG",
+            "playtime": 2,
+            "timetobeat": 130,
+            "platform": "PC",
+            "owned": true,
+            "completed": false
+        },
+        {
+            "name": "Hades",
+            "genre": "Roguelike",
+            "playtime": 30,
+            "timetobeat": 22,
+            "platform": "Switch",
+            "owned": true,
+            "completed": false
+        },
+        {
+            "name": "God of War Ragnarök",
+            "genre": "Action-Adventure",
+            "playtime": 0,
+            "timetobeat": 25,
+            "platform": "PS5",
+            "owned": false,
+            "completed": false
+        }
+    ]
+}
