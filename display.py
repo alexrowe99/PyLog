@@ -11,7 +11,7 @@ def truncate_string(string, display_len):
         return string+" "*(display_len-len(string))
     return string[:display_len-3]+"..."
 
-def print_backlog():
+def print_backlog(backlog):
     print("Game            |Genre     |Playtime|Platform|Owned?|Completed?")
     print("---------------------------------------------------------------")
     for game in backlog['games']:
