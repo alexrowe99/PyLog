@@ -1,6 +1,7 @@
 {
     "games": [
         {
+            "id": 0,
             "name": "Hollow Knight: Silksong",
             "genre": "Metroidvania",
             "playtime": 10,
@@ -10,6 +11,7 @@
             "completed": false
         },
         {
+            "id": 1,
             "name": "Elden Ring",
             "genre": "Action RPG",
             "playtime": 45,
@@ -19,6 +21,7 @@
             "completed": false
         },
         {
+            "id": 2,
             "name": "Stardew Valley",
             "genre": "Simulation",
             "playtime": 150,
@@ -28,6 +31,7 @@
             "completed": true
         },
         {
+            "id": 3,
             "name": "The Witcher 3: Wild Hunt",
             "genre": "RPG",
             "playtime": 5,
@@ -37,6 +41,7 @@
             "completed": false
         },
         {
+            "id": 4,
             "name": "Celeste",
             "genre": "Platformer",
             "playtime": 12,
@@ -46,6 +51,7 @@
             "completed": true
         },
         {
+            "id": 5,
             "name": "Baldur's Gate 3",
             "genre": "CRPG",
             "playtime": 2,
@@ -55,6 +61,7 @@
             "completed": false
         },
         {
+            "id": 6,
             "name": "Hades",
             "genre": "Roguelike",
             "playtime": 30,
@@ -64,6 +71,7 @@
             "completed": false
         },
         {
+            "id": 7,
             "name": "God of War Ragnarok",
             "genre": "Action-Adventure",
             "playtime": 0,
