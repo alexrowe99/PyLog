@@ -2,7 +2,7 @@
     "games": [
         {
             "id": 0,
-            "name": "Hollow Knight: Silksong",
+            "name": "Hollow Knight",
             "genre": "Metroidvania",
             "playtime": 10,
             "timetobeat": 28,
@@ -13,7 +13,7 @@
         {
             "id": 1,
             "name": "Elden Ring",
-            "genre": "Action RPG",
+            "genre": "ARPG",
             "playtime": 45,
             "timetobeat": 100,
             "platform": "PC",
@@ -24,7 +24,7 @@
             "id": 2,
             "name": "Stardew Valley",
             "genre": "Simulation",
-            "playtime": 150,
+            "playtime": 50,
             "timetobeat": 50,
             "platform": "Switch",
             "owned": true,
@@ -35,7 +35,7 @@
             "name": "The Witcher 3: Wild Hunt",
             "genre": "RPG",
             "playtime": 5,
-            "timetobeat": 105,
+            "timetobeat": 115,
             "platform": "PS5",
             "owned": false,
             "completed": false
@@ -46,7 +46,7 @@
             "genre": "Platformer",
             "playtime": 12,
             "timetobeat": 10,
-            "platform": "PC",
+            "platform": "PC, Switch",
             "owned": true,
             "completed": true
         },
@@ -57,7 +57,7 @@
             "playtime": 2,
             "timetobeat": 130,
             "platform": "PC",
-            "owned": true,
+            "owned": false,
             "completed": false
         },
         {
@@ -68,7 +68,7 @@
             "timetobeat": 22,
             "platform": "Switch",
             "owned": true,
-            "completed": false
+            "completed": true
         },
         {
             "id": 7,
